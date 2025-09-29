@@ -1,0 +1,10 @@
+@echo off
+:: Change these variables to match your setup
+set "LOCALFOLDER=C:\."
+set "REMOTE=gdrive:/backup-folder"
+set "FILTERFILE=C:\Users\N6506\Home\computer\rcloning\sync-filter.txt"
+
+:: Run rclone with proper quoting
+rclone copy "%LOCALFOLDER%" "%REMOTE%" --filter-from "%FILTERFILE%" --create-empty-src-dirs --progress --dry-run
+
+pause

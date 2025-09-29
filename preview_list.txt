@@ -1,0 +1,901 @@
+2025/09/29 15:26:56 NOTICE: Users: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/.vs: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/.vscode: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/documents d'identite: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/README.md: Skipped copy as --dry-run is set (size 32.993Mi)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/famille: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/media: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/to_install_again.txt: Skipped copy as --dry-run is set (size 57)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/transports: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/zoombie: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/media/videos: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/transports/navigo: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/documents d'identite/carte_identite_recto_verso: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/.gitignore: Skipped copy as --dry-run is set (size 0)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/transports/navigo/imagine-R: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/.vscode/settings.json: Skipped copy as --dry-run is set (size 2.455Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/.gitignore: Skipped copy as --dry-run is set (size 52)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/.vscode/launch.json: Skipped copy as --dry-run is set (size 1.036Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/famille/sorties: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/82000009959_INVOICE: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/documents d'identite/ReleveIdentiteBancaire.pdf: Skipped copy as --dry-run is set (size 10.657Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/.vs/VSWorkspaceState.json: Skipped copy as --dry-run is set (size 78)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/chg_clipboard: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/.vs/slnx.sqlite: Skipped copy as --dry-run is set (size 88Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/.gitignore: Skipped copy as --dry-run is set (size 122)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/food plans: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/RMA: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/zoombie/zoombie.docx: Skipped copy as --dry-run is set (size 39.180Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/zoombie/~$oombie.docx: Skipped copy as --dry-run is set (size 162)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/diff: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/documents d'identite/photo.jpg: Skipped copy as --dry-run is set (size 229.485Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/media/videos/.gitignore: Skipped copy as --dry-run is set (size 10)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/vue: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/rcloning: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/media/videos/desktop.ini: Skipped copy as --dry-run is set (size 68)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/transports/navigo/imagine-R/attestation.pdf: Skipped copy as --dry-run is set (size 1.715Mi)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/game_tools: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/documents d'identite/carte_identite_recto_verso/carte_identite_recto.pdf: Skipped copy as --dry-run is set (size 48.863Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/documents d'identite/carte_identite_recto_verso/carte_identite_recto_verso.pdf: Skipped copy as --dry-run is set (size 89.999Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/food plans/food-plans: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/windows_folders: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/games: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/documents d'identite/carte_identite_recto_verso/carte_identite_verso.pdf: Skipped copy as --dry-run is set (size 41.877Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/famille/sorties/Antoine_Billet_ADN.pdf: Skipped copy as --dry-run is set (size 327.048Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/generate_sub: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/Battery report.htm: Skipped copy as --dry-run is set (size 48.495Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/NVIDIA System Information 03-16-2025 18-06-50.txt: Skipped copy as --dry-run is set (size 3.949Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/news_underground: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/RMA/battery that won't charge: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/code_tips.txt: Skipped copy as --dry-run is set (size 6.833Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/description avancement: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/sport.txt: Skipped copy as --dry-run is set (size 161)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/sqlite-tools-win-x64-3500400: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/2023-2024: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/analyse.txt: Skipped copy as --dry-run is set (size 4)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/assistance_message.txt: Skipped copy as --dry-run is set (size 2.089Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/videos: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/infos.txt: Skipped copy as --dry-run is set (size 31)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/erasmus fin: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/download_videos.txt: Skipped copy as --dry-run is set (size 39)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/time_manager: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/vue/.gitignore: Skipped copy as --dry-run is set (size 5)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/system report.txt: Skipped copy as --dry-run is set (size 2.551Mi)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/system_report_15_mars.txt: Skipped copy as --dry-run is set (size 2.475Mi)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/games/sims4: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/premier jour: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/videos/De.rockstar.a.tueur.le.cas.Cantat.DOC.FRENCH.1080p.WEB.x264-SUPPLY: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/.gitignore: Skipped copy as --dry-run is set (size 23)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/codes: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/windows_folders/PS_code.txt: Skipped copy as --dry-run is set (size 225)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/chg_clipboard/slash_to_double_slash: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/windows_folders/PowerShell_function.txt: Skipped copy as --dry-run is set (size 1.851Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/windows_folders/exclude.txt: Skipped copy as --dry-run is set (size 145)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/news_underground/hentai: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/rapport: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/game_tools/autohotkey: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/TAL: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/videos/Ne.Zha.2019.CHINESE.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1-FGT: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/windows_folders/get_summary.py: Skipped copy as --dry-run is set (size 8.312Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/cv: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/windows_folders/project_summary.txt: Skipped copy as --dry-run is set (size 23.824Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/generate_sub/subtitles: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/windows_folders/tree_output.txt: Skipped copy as --dry-run is set (size 4.867Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/RMA/Instruction de transport pour votre produit ASUS en panne.pdf: Skipped copy as --dry-run is set (size 871.856Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/remboursements: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/videos/Ne.Zha.2019.UHD.BluRay.2160p..HDR.DTS-HD.MA.5.1.HEVC-DDR[EtHD]: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/rcloning/WizTree_filters.txt: Skipped copy as --dry-run is set (size 1.200Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/eCampus documents: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/rcloning/commands.txt: Skipped copy as --dry-run is set (size 118)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/rcloning/oauth ID.txt: Skipped copy as --dry-run is set (size 144)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/Help: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/rcloning/prompts.txt: Skipped copy as --dry-run is set (size 995)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/game_tools/autohotkey/autohotkey: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/soutenance: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/videos/Sinners.2025.2160p.WEB-DL.DV.HDR10+.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/interm_mods: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/rcloning/save-to-cloud-preview.bat: Skipped copy as --dry-run is set (size 350)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/created: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/modalités: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/rcloning/save-to-cloud.bat: Skipped copy as --dry-run is set (size 340)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/rcloning/sync-filter.txt: Skipped copy as --dry-run is set (size 1.388Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/de: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/82000009959_INVOICE/GCINBE0881213227BE202400000000848014560621257086465618.pdf: Skipped copy as --dry-run is set (size 29.675Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/.vscode: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/videos/The.Bear.S01.2160p.HULU.WEB-DL.DDP5.1.x265-KOGi[rartv]: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/media: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/password_generator.py: Skipped copy as --dry-run is set (size 648)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TD: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/paiements: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/qBittorrent_files_to_delete.py: Skipped copy as --dry-run is set (size 870)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/shows.txt: Skipped copy as --dry-run is set (size 17)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/es: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/RMA/msg.txt: Skipped copy as --dry-run is set (size 667)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/évaluation du stagiaire: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/cours: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/videos/www.UIndex.org    -    Ne Zha 2 (2025) 2160p 4K WEB 5.1-WORLD: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/RMA/shipping_documents_DHL_2800854394.pdf: Skipped copy as --dry-run is set (size 2.956Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/TAL/cours: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/rapport: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/RMA/shipping_labels_DHL_2800854394.pdf: Skipped copy as --dry-run is set (size 6.573Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/RMA/battery that won't charge/Commande # 82000009959.pdf: Skipped copy as --dry-run is set (size 103.750Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/fi: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/computer/RMA/battery that won't charge/battery-report.html: Skipped copy as --dry-run is set (size 71.541Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/Présentation 5A 2024 2025 v3.pdf: Skipped copy as --dry-run is set (size 3.018Mi)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/slides: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/TAL/test: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/rapports intermédiaires: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/Stages_ET4M_2011_2023.xlsx: Skipped copy as --dry-run is set (size 125.354Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/chg_clipboard/.gitignore: Skipped copy as --dry-run is set (size 4)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/it: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/chg_clipboard/run_2backsl_to_sl.bat: Skipped copy as --dry-run is set (size 72)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/chg_clipboard/run_backsl_to_2backsl.bat: Skipped copy as --dry-run is set (size 72)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/erasmus fin/non signé: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/chg_clipboard/run_backsl_to_sl.bat: Skipped copy as --dry-run is set (size 72)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/test: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/remboursements/amazon: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/chg_clipboard/run_sl_to_2backsl.bat: Skipped copy as --dry-run is set (size 72)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/ml: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/chg_clipboard/run_sl_to_backsl.bat: Skipped copy as --dry-run is set (size 72)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/cours: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/chg_clipboard/run_upperCase.bat: Skipped copy as --dry-run is set (size 72)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/erasmus fin/signé: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/media/divers: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/diff/diff.py: Skipped copy as --dry-run is set (size 1.771Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/soutenance/diapos: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/to_scan: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/remboursements/guillemins: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/diff/file1.txt: Skipped copy as --dry-run is set (size 28.271Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/nl: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/diff/file2.txt: Skipped copy as --dry-run is set (size 27.323Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/generate_sub/.gitignore: Skipped copy as --dry-run is set (size 20)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/media/pamela reif: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/generate_sub/edit.py: Skipped copy as --dry-run is set (size 2.503Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/tools: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TD/TD1: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/3d: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/generate_sub/subGenerator.py: Skipped copy as --dry-run is set (size 3.854Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/pl: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/sqlite-tools-win-x64-3500400/search_history.txt: Skipped copy as --dry-run is set (size 1.657Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/c_prog: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/sqlite-tools-win-x64-3500400/sqldiff.exe: Skipped copy as --dry-run is set (size 3.030Mi)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/sqlite-tools-win-x64-3500400/sqlite3.exe: Skipped copy as --dry-run is set (size 3.705Mi)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TD/TD3: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/IA_Plateau: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/sqlite-tools-win-x64-3500400/sqlite3_analyzer.exe: Skipped copy as --dry-run is set (size 4.233Mi)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/pt-PT: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/sqlite-tools-win-x64-3500400/sqlite3_rsync.exe: Skipped copy as --dry-run is set (size 2.978Mi)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/temp: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/TP4: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/Resource.cfg: Skipped copy as --dry-run is set (size 169)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods.txt: Skipped copy as --dry-run is set (size 128)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/codePlateau: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/chg_clipboard/slash_to_double_slash/slash_to_double_slash.c: Skipped copy as --dry-run is set (size 3.465Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/archive: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/ru: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP1: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/chg_clipboard/slash_to_double_slash/slash_to_double_slash.exe: Skipped copy as --dry-run is set (size 57.814Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/TP5: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/generate_sub/subtitles/ASMR HoneyGirl - горячая секретарша (Patreon)_subtitles_20250302_160228.txt: Skipped copy as --dry-run is set (size 3.120Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/generate_sub/subtitles/BadAssDownloader - 480p_Kitty Klaw ASMR - 18 February 2024 - Tutor Roleplay_subtitles.txt: Skipped copy as --dry-run is set (size 6.303Ki)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/dossier_temporaire: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/generate_sub/subtitles/BadAssDownloader - 480p_Kitty Klaw ASMR - 18 February 2024 - Tutor Roleplay_subtitles_20241006_011952.txt: Skipped copy as --dry-run is set (size 550)
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/img: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/sk: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP2: Skipped make directory as --dry-run is set
+2025/09/29 15:26:56 NOTICE: Users/N6506/Home/health/entertainment/news_underground/hentai/tags.txt: Skipped copy as --dry-run is set (size 686)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/TP6-7: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/LICENSE.txt: Skipped copy as --dry-run is set (size 1.508Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/README.html: Skipped copy as --dry-run is set (size 5.584Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/résultats de Benjamin: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/alone_media.py.lnk: Skipped copy as --dry-run is set (size 1.669Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP/TP Info Quantique 2024-2025: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/sv: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP3: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/encrypt.py.lnk: Skipped copy as --dry-run is set (size 1.649Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/TP8: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/files_to_download.py.lnk: Skipped copy as --dry-run is set (size 1.698Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/generate_sortings.py.lnk: Skipped copy as --dry-run is set (size 1.698Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/server: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/generate_sortings_choose.py.lnk: Skipped copy as --dry-run is set (size 1.732Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/th-TH: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/working_mods.txt: Skipped copy as --dry-run is set (size 5.959Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/tp1: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/notes.txt: Skipped copy as --dry-run is set (size 147)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/.vs: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/play_video.py.lnk: Skipped copy as --dry-run is set (size 1.664Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/cv/old: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/url_to_filename.py.lnk: Skipped copy as --dry-run is set (size 1.688Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/tr: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/archive/TP Info Quantique 2024-2025: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/c_prog/CustomVideoPlayer: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/description avancement/tutorat_de_stage_Antoine_Barbault_ET4.pdf: Skipped copy as --dry-run is set (size 479.612Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/tp3: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/remboursements/1726162832736.jpg: Skipped copy as --dry-run is set (size 2.758Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/faire le contract: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/FullScreenVideoPlayer: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/premier jour/Donnees_brutes_csv.zip: Skipped copy as --dry-run is set (size 1.921Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/premier jour/Liste_graphique_KIKK.pdf: Skipped copy as --dry-run is set (size 1.545Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/zh-CN: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/c_prog/MediaSorterDLL: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/premier jour/POC_NutriSmarT_SmarTray_ULiege_Haubruge.pdf: Skipped copy as --dry-run is set (size 917.088Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP/TP Info Quantique 2024-2025/TP Info Quantique 2024-2025: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/premier jour/Presentation_KIKK_OSAKA.pptx: Skipped copy as --dry-run is set (size 3.702Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/tools/cheats: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/premier jour/desktop.ini: Skipped copy as --dry-run is set (size 80)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/rapport/BARBAULT_Antoine_ET4_IIM.pdf: Skipped copy as --dry-run is set (size 7.168Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Condoms: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/c_prog/mediaSorter: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/rapport/Capture d’écran 2024-08-25 130522.png: Skipped copy as --dry-run is set (size 236.826Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/rapport/Classeur1.xlsx: Skipped copy as --dry-run is set (size 8.815Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/modalités/old: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/rapport/JOOMUN_Uzeir_ET4_IIM-1.pdf: Skipped copy as --dry-run is set (size 7.664Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/rapport/Rapport de stage et Evaluation ET4-23-24.pdf: Skipped copy as --dry-run is set (size 221.739Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP1/TP-1 - Copie: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Average: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/paiements/bulletins: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/3d/test_balance: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/c_prog/sorter2: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/rapport/desktop.ini: Skipped copy as --dry-run is set (size 88)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/rapport/rapport de stage.docx: Skipped copy as --dry-run is set (size 148.228Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/rapport/rapport_prompts.docx: Skipped copy as --dry-run is set (size 28.879Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/De.rockstar.a.tueur.le.cas.Cantat.DOC.FRENCH.1080p.WEB.x264-SUPPLY/De.rockstar.a.tueur.le.cas.Cantat.S01E01.DOC.FRENCH.1080p.WEB.x264-SUPPLY.mkv: Skipped copy as --dry-run is set (size 2.141Gi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP2/MatrixProduct-CUDA-cublas-enonce-2: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Big: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/IA_Plateau/IA_plateau: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/connect-four: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/.vs/FullScreenVideoPlayer: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/De.rockstar.a.tueur.le.cas.Cantat.DOC.FRENCH.1080p.WEB.x264-SUPPLY/De.rockstar.a.tueur.le.cas.Cantat.S01E02.DOC.FRENCH.1080p.WEB.x264-SUPPLY.mkv: Skipped copy as --dry-run is set (size 1.778Gi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/De.rockstar.a.tueur.le.cas.Cantat.DOC.FRENCH.1080p.WEB.x264-SUPPLY/De.rockstar.a.tueur.le.cas.Cantat.S01E03.FiNAL.DOC.FRENCH.1080p.WEB.x264-SUPPLY.mkv: Skipped copy as --dry-run is set (size 1.829Gi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/soutenance/Consignes et Evaluation_Soutenance_FISE-4A_22-23.pdf: Skipped copy as --dry-run is set (size 1.120Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/soutenance/Planning SPE 2024-INFO 4A-3.pdf: Skipped copy as --dry-run is set (size 40.655Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Extra Big: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/Ne.Zha.2019.CHINESE.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1-FGT/Ne.Zha.2019.CHINESE.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1-FGT.mkv: Skipped copy as --dry-run is set (size 56.572Gi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/Ne.Zha.2019.CHINESE.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1-FGT/Ne.Zha.2019.CHINESE.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1-FGT.srt: Skipped copy as --dry-run is set (size 846)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/Ne.Zha.2019.CHINESE.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1-FGT/RARBG.txt: Skipped copy as --dry-run is set (size 31)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/.gitignore: Skipped copy as --dry-run is set (size 68)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Huge: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/rendu: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/media/got-a-light-v0-m1pwrnsdgn0f1.webp: Skipped copy as --dry-run is set (size 131.430Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/FullScreenVideoPlayer/Properties: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/.vscode/settings.json: Skipped copy as --dry-run is set (size 1.466Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/dossier_temporaire/recap: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/Ne.Zha.2019.UHD.BluRay.2160p..HDR.DTS-HD.MA.5.1.HEVC-DDR[EtHD]/Downloaded from www.ETTV.tv .txt: Skipped copy as --dry-run is set (size 270)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/Ne.Zha.2019.UHD.BluRay.2160p..HDR.DTS-HD.MA.5.1.HEVC-DDR[EtHD]/Ne.Zha.2019.UHD.BluRay.2160p..HDR.DTS-HD.MA.5.1.HEVC-DDR[EtHD].mkv: Skipped copy as --dry-run is set (size 12.181Gi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Small: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/Ne.Zha.2019.UHD.BluRay.2160p..HDR.DTS-HD.MA.5.1.HEVC-DDR[EtHD]/Ne.Zha.2019.UHD.BluRay.2160p..HDR.DTS-HD.MA.5.1.HEVC-DDR[EtHD].srt: Skipped copy as --dry-run is set (size 94.377Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/FullScreenVideoPlayer/bin: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/.gitignore: Skipped copy as --dry-run is set (size 13)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP2/MatrixProduct-CUDA-cublas-enonce-2/MatrixProduct-CUDA-cublas-enonce-2: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/comparison: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/media/who-is-she-v0-q8tdjmn1g51f1.webp: Skipped copy as --dry-run is set (size 21.969Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/Sinners.2025.2160p.WEB-DL.DV.HDR10+.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN/Downloaded From The Pirate Bay.txt: Skipped copy as --dry-run is set (size 412)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Swatches: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/Sinners.2025.2160p.WEB-DL.DV.HDR10+.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN/Downloaded From ext.to.txt: Skipped copy as --dry-run is set (size 347)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/.vs/FullScreenVideoPlayer/CopilotIndices: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/FullScreenVideoPlayer/obj: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/Sinners.2025.2160p.WEB-DL.DV.HDR10+.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN/Sinners.2025.2160p.WEB-DL.DV.HDR10+[Ben The Men].mp4: Skipped copy as --dry-run is set (size 24.933Gi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/inputs: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/c_prog/MediaSorterDLL/MediaSorterDLL: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/Sinners.2025.2160p.WEB-DL.DV.HDR10+.DDP5.1.Atmos.H265.MP4-BEN.THE.MEN/Sinners.2025.2160p.WEB-DL.DV.HDR10+[Ben The Men].srt: Skipped copy as --dry-run is set (size 131.946Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/virus.txt: Skipped copy as --dry-run is set (size 6)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Average: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/tp1/1: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/cours/cpp-5.pdf: Skipped copy as --dry-run is set (size 660.101Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/.vs/FullScreenVideoPlayer/FileContentIndex: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/cours/nouveau 8.txt: Skipped copy as --dry-run is set (size 170)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/server/Stage_2024_Montefiore_Serveur_Smartray: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/output_examples: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/cours/nouveau 9.txt: Skipped copy as --dry-run is set (size 423)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/évaluation du stagiaire/Fiche Evaluation Entreprise FR ET4-23-24 Antoine Barbault.pdf: Skipped copy as --dry-run is set (size 810.575Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Big: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/tp1/2: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/portable.config: Skipped copy as --dry-run is set (size 7.187Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/.vs/FullScreenVideoPlayer/v17: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/TAL/cours/Cours_TAL_Apprentissage_automatique_2024-2025.pdf: Skipped copy as --dry-run is set (size 1.646Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/outputs: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/TAL/cours/Cours_TAL_Multilinguality_in_LLMs_2024-2025.pdf: Skipped copy as --dry-run is set (size 3.150Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/TAL/cours/Cours_TAL_Traduction-automatique_2024-2025.pdf: Skipped copy as --dry-run is set (size 3.576Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Extra Big: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/TAL/cours/Cours_TAL_Traitement-automatique-des-langues_2024-2025.pdf: Skipped copy as --dry-run is set (size 2.508Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/rendu/connect-four: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/TAL/cours/notes.txt: Skipped copy as --dry-run is set (size 1.308Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/FullScreenVideoPlayer/bin/Debug: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/prompts.txt: Skipped copy as --dry-run is set (size 458)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/2023-2024/01 Modalites du stage ET5-23-24.pdf: Skipped copy as --dry-run is set (size 364.711Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Huge: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/FullScreenVideoPlayer/obj/Debug: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/2023-2024/02 Consignes Rapport ET5-23-24.pdf: Skipped copy as --dry-run is set (size 238.828Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/rendu/my-react-app: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/2023-2024/03 Consignes Soutenance ET5-23-24.pdf: Skipped copy as --dry-run is set (size 145.419Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/to-do list: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/2023-2024/04 Fiche Evaluation Rapport ET5-23-24.pdf: Skipped copy as --dry-run is set (size 390.317Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/tp1/1/project-2024 11 2016 24 57: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/.vs/FullScreenVideoPlayer/CopilotIndices/17.14.827.52834: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/2023-2024/05 Fiche Evaluation Soutenance ET5-23-24.pdf: Skipped copy as --dry-run is set (size 415.981Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Small: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/2023-2024/06 Evaluation Entreprise IIM ET5-2023-2024.pdf: Skipped copy as --dry-run is set (size 201.968Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/TAL/test/test.py: Skipped copy as --dry-run is set (size 16)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/erasmus fin/non signé/Erasmus+ - Kit Erasmus+ stage 2023.docx: Skipped copy as --dry-run is set (size 787.248Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/slides/PPS-GPU-01-Architecture-1spp.pdf: Skipped copy as --dry-run is set (size 3.767Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Tuning File for WW: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/slides/PPS-GPU-02-CUDA-Basics-1spp.pdf: Skipped copy as --dry-run is set (size 958.743Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/slides/PPS-GPU-03-CUDA-Best-practices-1spp.pdf: Skipped copy as --dry-run is set (size 621.416Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/slides/PPS-GPU-05-CUDA-Transfer-stream-overlap-1spp.pdf: Skipped copy as --dry-run is set (size 357.877Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/FullScreenVideoPlayer/obj/Debug/TempPE: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/examen_TP_antoine_barbault.ipynb: Skipped copy as --dry-run is set (size 43.879Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/to-do list/todolist2_react: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/soutenance/diapos/Présentation sans titre-1.pdf: Skipped copy as --dry-run is set (size 1.362Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/soutenance/diapos/Présentation sans titre.pdf: Skipped copy as --dry-run is set (size 1.362Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/public: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/The.Bear.S01.2160p.HULU.WEB-DL.DDP5.1.x265-KOGi[rartv]/RARBG.txt: Skipped copy as --dry-run is set (size 38)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/The.Bear.S01.2160p.HULU.WEB-DL.DDP5.1.x265-KOGi[rartv]/The.Bear.S01E06.2160p.WEB.h265-KOGi.mkv: Skipped copy as --dry-run is set (size 3.411Gi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/The.Bear.S01.2160p.HULU.WEB-DL.DDP5.1.x265-KOGi[rartv]/The.Bear.S01E06.2160p.WEB.h265-KOGi.srt: Skipped copy as --dry-run is set (size 45.701Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/The.Bear.S01.2160p.HULU.WEB-DL.DDP5.1.x265-KOGi[rartv]/The.Bear.S01E07.2160p.WEB.h265-KOGi.mkv: Skipped copy as --dry-run is set (size 2.174Gi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/src: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/The.Bear.S01.2160p.HULU.WEB-DL.DDP5.1.x265-KOGi[rartv]/The.Bear.S01E07.2160p.WEB.h265-KOGi.srt: Skipped copy as --dry-run is set (size 35.763Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/The.Bear.S01.2160p.HULU.WEB-DL.DDP5.1.x265-KOGi[rartv]/The.Bear.S01E08.2160p.WEB.h265-KOGi.mkv: Skipped copy as --dry-run is set (size 5.297Gi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/The.Bear.S01.2160p.HULU.WEB-DL.DDP5.1.x265-KOGi[rartv]/The.Bear.S01E08.2160p.WEB.h265-KOGi.srt: Skipped copy as --dry-run is set (size 41.363Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/The.Bear.S01.2160p.HULU.WEB-DL.DDP5.1.x265-KOGi[rartv]/the.bear.s01e01.2160p.web.h265-glhf.mkv: Skipped copy as --dry-run is set (size 3.056Gi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/The.Bear.S01.2160p.HULU.WEB-DL.DDP5.1.x265-KOGi[rartv]/the.bear.s01e01.2160p.web.h265-glhf.srt: Skipped copy as --dry-run is set (size 42.477Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/The.Bear.S01.2160p.HULU.WEB-DL.DDP5.1.x265-KOGi[rartv]/the.bear.s01e02.2160p.web.h265-ggez.mkv: Skipped copy as --dry-run is set (size 3.432Gi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/The.Bear.S01.2160p.HULU.WEB-DL.DDP5.1.x265-KOGi[rartv]/the.bear.s01e02.2160p.web.h265-ggez.srt: Skipped copy as --dry-run is set (size 41.132Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/The.Bear.S01.2160p.HULU.WEB-DL.DDP5.1.x265-KOGi[rartv]/the.bear.s01e03.2160p.web.h265-ggez.mkv: Skipped copy as --dry-run is set (size 3.238Gi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/The.Bear.S01.2160p.HULU.WEB-DL.DDP5.1.x265-KOGi[rartv]/the.bear.s01e03.2160p.web.h265-ggez.srt: Skipped copy as --dry-run is set (size 33.674Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/The.Bear.S01.2160p.HULU.WEB-DL.DDP5.1.x265-KOGi[rartv]/the.bear.s01e04.2160p.web.h265-glhf.mkv: Skipped copy as --dry-run is set (size 3.334Gi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/The.Bear.S01.2160p.HULU.WEB-DL.DDP5.1.x265-KOGi[rartv]/the.bear.s01e04.2160p.web.h265-glhf.srt: Skipped copy as --dry-run is set (size 41.132Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/The.Bear.S01.2160p.HULU.WEB-DL.DDP5.1.x265-KOGi[rartv]/the.bear.s01e05.2160p.web.h265-ggez.mkv: Skipped copy as --dry-run is set (size 2.771Gi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/The.Bear.S01.2160p.HULU.WEB-DL.DDP5.1.x265-KOGi[rartv]/the.bear.s01e05.2160p.web.h265-ggez.srt: Skipped copy as --dry-run is set (size 32.532Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/screenruler.exe.config: Skipped copy as --dry-run is set (size 350)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/screenruler.exe: Skipped copy as --dry-run is set (size 773Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/www.UIndex.org    -    Ne Zha 2 (2025) 2160p 4K WEB 5.1-WORLD/Ne.Zha.2.2025.2160p.4K.WEB.x265.10bit.AAC5.1-WORLD.mkv.nfo: Skipped copy as --dry-run is set (size 6.042Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/www.UIndex.org    -    Ne Zha 2 (2025) 2160p 4K WEB 5.1-WORLD/Ne.Zha.2.2025.2160p.4K.WEB.x265.10bit.AAC5.1-WORLD.mkv: Skipped copy as --dry-run is set (size 6.426Gi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/public: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/videos/www.UIndex.org    -    Ne Zha 2 (2025) 2160p 4K WEB 5.1-WORLD/Torrent Downloaded From     UIndex.org      .txt: Skipped copy as --dry-run is set (size 129)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/remboursements/amazon/5 convertisseurs.pdf: Skipped copy as --dry-run is set (size 81.286Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/public: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/remboursements/amazon/Câble Rallonge USB.pdf: Skipped copy as --dry-run is set (size 80.771Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/remboursements/amazon/Câble micro USB court.pdf: Skipped copy as --dry-run is set (size 81.988Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/src: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/remboursements/amazon/Dupont mâle et femelle connecteur pour boîtier.pdf: Skipped copy as --dry-run is set (size 81.466Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/public/bg: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP/Quantum_Algorithms.pdf: Skipped copy as --dry-run is set (size 205.838Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/src: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/.gitignore: Skipped copy as --dry-run is set (size 338)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/erasmus fin/signé/Erasmus+ - Kit Erasmus+ stage 2023-signature-ernst.docx: Skipped copy as --dry-run is set (size 817.364Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/remboursements/guillemins/MFLDLPK_Gembloux_02_juil_2024_Billet1.pdf: Skipped copy as --dry-run is set (size 576.923Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/remboursements/guillemins/aller-retour_Gembloux.pdf: Skipped copy as --dry-run is set (size 440.413Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/remboursements/guillemins/aller.pdf: Skipped copy as --dry-run is set (size 508.938Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/remboursements/guillemins/retour.pdf: Skipped copy as --dry-run is set (size 584.429Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/test/test.txt: Skipped copy as --dry-run is set (size 0)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/cours/cours_qc-1.pdf: Skipped copy as --dry-run is set (size 3.177Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TD/TD1/PPS-TD1-CUDA-basics.pdf: Skipped copy as --dry-run is set (size 227.771Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TD/TD3/PPS-TD3-CUDA-shm-1.pdf: Skipped copy as --dry-run is set (size 247.544Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TD/TD3/exo.cpp: Skipped copy as --dry-run is set (size 89)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TD/TD3/exo.txt: Skipped copy as --dry-run is set (size 0)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/public/videos: Skipped make directory as --dry-run is set
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/cv/Antoine Barbault FR - ENG 14oct.pdf: Skipped copy as --dry-run is set (size 172.631Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/cv/Antoine Barbault FR 30oct.pdf: Skipped copy as --dry-run is set (size 88.263Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/cv/cv_17_09_23_FR.odt: Skipped copy as --dry-run is set (size 38.057Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/FullScreenVideoPlayer.sln: Skipped copy as --dry-run is set (size 1.147Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/info.txt: Skipped copy as --dry-run is set (size 48)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/tools/.gitignore: Skipped copy as --dry-run is set (size 6)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/tools/Translator++_7.4.24B_x64_[7dd493b6].7z: Skipped copy as --dry-run is set (size 140.628Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/temp/main.py: Skipped copy as --dry-run is set (size 2.938Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/temp/main.qml: Skipped copy as --dry-run is set (size 5.086Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/01.png: Skipped copy as --dry-run is set (size 764.312Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/02.png: Skipped copy as --dry-run is set (size 725.730Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/03.png: Skipped copy as --dry-run is set (size 841.855Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/04.png: Skipped copy as --dry-run is set (size 549.167Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/05.png: Skipped copy as --dry-run is set (size 693.959Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/06.png: Skipped copy as --dry-run is set (size 556.423Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/07.png: Skipped copy as --dry-run is set (size 556.613Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/08.png: Skipped copy as --dry-run is set (size 297.534Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/12.png: Skipped copy as --dry-run is set (size 1.868Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/09.png: Skipped copy as --dry-run is set (size 1.882Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/10.png: Skipped copy as --dry-run is set (size 2.073Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/11.png: Skipped copy as --dry-run is set (size 1.873Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/13.png: Skipped copy as --dry-run is set (size 2.317Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/14.png: Skipped copy as --dry-run is set (size 2.035Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/15.png: Skipped copy as --dry-run is set (size 2.142Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/45.png: Skipped copy as --dry-run is set (size 1.633Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/eCampus documents/02 Consignes Rapport ET5-24-25 (1).pdf: Skipped copy as --dry-run is set (size 245.379Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/eCampus documents/02 Consignes Rapport ET5-24-25.pdf: Skipped copy as --dry-run is set (size 245.379Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/eCampus documents/03 Consignes Soutenance ET5-24-25.pdf: Skipped copy as --dry-run is set (size 202.495Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/eCampus documents/04 Fiche Evaluation Rapport ET5-24-25.pdf: Skipped copy as --dry-run is set (size 165.862Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/eCampus documents/05 Fiche Evaluation Soutenance ET5-24-25 (1).pdf: Skipped copy as --dry-run is set (size 157.789Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/eCampus documents/05 Fiche Evaluation Soutenance ET5-24-25.pdf: Skipped copy as --dry-run is set (size 157.789Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/eCampus documents/5A IIM Fiches Evaluation Tuteur Entreprise.pdf: Skipped copy as --dry-run is set (size 300.051Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/eCampus documents/ET5 - Fiche Evaluation Tuteur Entreprise IIM.pdf: Skipped copy as --dry-run is set (size 205.200Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/eCampus documents/Modalites_ET5-24-25.pdf: Skipped copy as --dry-run is set (size 368.390Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/eCampus documents/Présentation sans titre.pdf: Skipped copy as --dry-run is set (size 1.330Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/eCampus documents/Rapport de stage Et5-IIM Antoine Barbault.pdf: Skipped copy as --dry-run is set (size 4.674Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/eCampus documents/présentation de l'entreprise - Google Docs.pdf: Skipped copy as --dry-run is set (size 2.196Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/eCampus documents/rapport de stage partiel - Google Docs.pdf: Skipped copy as --dry-run is set (size 3.324Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/modalités/Fiche de renseignements Entreprise FR.pdf: Skipped copy as --dry-run is set (size 213.290Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/modalités/Fiche de renseignements Etudiant-1.pdf: Skipped copy as --dry-run is set (size 79.432Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/modalités/Modalites_ET5-2024-2025 TEMPORAIRE.pdf: Skipped copy as --dry-run is set (size 348.728Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/img/circuit_O1.png: Skipped copy as --dry-run is set (size 5.044Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/img/circuit_O1O2.png: Skipped copy as --dry-run is set (size 3.585Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/img/circuit_O2.png: Skipped copy as --dry-run is set (size 4.294Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/img/circuit_adder.png: Skipped copy as --dry-run is set (size 35.007Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/img/circuit_croix.png: Skipped copy as --dry-run is set (size 8.852Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/img/circuit_sauron.png: Skipped copy as --dry-run is set (size 15.004Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/img/os.jpg: Skipped copy as --dry-run is set (size 10.560Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/img/tableau.png: Skipped copy as --dry-run is set (size 9.826Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/paiements/Attestation_de_stage.pdf: Skipped copy as --dry-run is set (size 69.282Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/paiements/Reçu_pour_solde_de_tout_compte.pdf: Skipped copy as --dry-run is set (size 59.013Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/cv/old/CV_Antoine_BARBAULT_03_mars_24_ENGLISH.pdf: Skipped copy as --dry-run is set (size 50.588Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/cv/old/cv_17_09_23_ENGLISH.odt: Skipped copy as --dry-run is set (size 39Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/cv/old/cv_18_feb_ENGLISH.pdf: Skipped copy as --dry-run is set (size 50.250Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/cv/old/cv_eng_Antoine_BARBAULT_08_feb_2024.pdf: Skipped copy as --dry-run is set (size 68.045Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/cv/old/cv_eng_Antoine_BARBAULT_17_feb_2024.pdf: Skipped copy as --dry-run is set (size 50.250Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/rapport/02 Consignes Rapport ET5-23-24.pdf: Skipped copy as --dry-run is set (size 238.828Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP2/CudaPerf.xlsx: Skipped copy as --dry-run is set (size 27.907Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/TP4/arrays.cpp: Skipped copy as --dry-run is set (size 13.155Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/TP4/arrays2.cpp: Skipped copy as --dry-run is set (size 0)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/TP4/notes.txt: Skipped copy as --dry-run is set (size 482)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/rapports intermédiaires/formulaire-description-stage-informatique-et5-2025.odt: Skipped copy as --dry-run is set (size 95.456Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/rapports intermédiaires/formulaire-description-stage-informatique-et5-2025.pdf: Skipped copy as --dry-run is set (size 124.853Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP2/TP2-CUBLAS.pdf: Skipped copy as --dry-run is set (size 265.853Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP3/CudaPerf_TP3.xlsx: Skipped copy as --dry-run is set (size 27.888Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP3/TP3-CUDA-Shm.pdf: Skipped copy as --dry-run is set (size 350.204Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/archive/TP Info Quantique 2024-2025/CUseq.png: Skipped copy as --dry-run is set (size 3.765Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/archive/TP Info Quantique 2024-2025/arithmetic.png: Skipped copy as --dry-run is set (size 21.870Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/archive/TP Info Quantique 2024-2025/QPE.png: Skipped copy as --dry-run is set (size 4.146Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/archive/TP Info Quantique 2024-2025/TP_Polytech_InfoQ - corrigé.ipynb: Skipped copy as --dry-run is set (size 522.414Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/archive/TP Info Quantique 2024-2025/TP_Polytech_InfoQ.ipynb: Skipped copy as --dry-run is set (size 283.327Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/archive/TP Info Quantique 2024-2025/bell_inequalities.png: Skipped copy as --dry-run is set (size 20.088Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/archive/TP Info Quantique 2024-2025/dj_algo.png: Skipped copy as --dry-run is set (size 14.417Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/archive/TP Info Quantique 2024-2025/grover_algo.png: Skipped copy as --dry-run is set (size 10.360Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/archive/TP Info Quantique 2024-2025/hwb4-11-23.jpg: Skipped copy as --dry-run is set (size 13.632Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/archive/TP Info Quantique 2024-2025/perm2x2.svg: Skipped copy as --dry-run is set (size 18.682Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/archive/TP Info Quantique 2024-2025/perm3x3.svg: Skipped copy as --dry-run is set (size 117.273Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/archive/TP Info Quantique 2024-2025/qft.png: Skipped copy as --dry-run is set (size 4.125Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/archive/TP Info Quantique 2024-2025/teleportation.png: Skipped copy as --dry-run is set (size 9.449Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP noté/archive/TP Info Quantique 2024-2025/toffoli.png: Skipped copy as --dry-run is set (size 14.743Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/TP5/tp5.cpp: Skipped copy as --dry-run is set (size 10.774Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/Help/Help.de.html: Skipped copy as --dry-run is set (size 2.400Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/Help/Help.en.html: Skipped copy as --dry-run is set (size 2.287Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/Help/Help.es.html: Skipped copy as --dry-run is set (size 2.320Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/Help/Help.fi.html: Skipped copy as --dry-run is set (size 2.405Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/Help/Help.it.html: Skipped copy as --dry-run is set (size 2.376Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/Help/Help.ml.html: Skipped copy as --dry-run is set (size 4.293Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/Help/Help.nl.html: Skipped copy as --dry-run is set (size 2.280Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/Help/Help.pl.html: Skipped copy as --dry-run is set (size 2.325Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/Help/Help.pt.html: Skipped copy as --dry-run is set (size 2.118Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/Help/Help.ru.html: Skipped copy as --dry-run is set (size 3.027Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/Help/Help.sk.html: Skipped copy as --dry-run is set (size 2.233Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/Help/Help.sv.html: Skipped copy as --dry-run is set (size 2.289Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/Help/Help.zh-CN.html: Skipped copy as --dry-run is set (size 2.370Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/Help/Help.zh.html: Skipped copy as --dry-run is set (size 2.391Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/strat.xlsx: Skipped copy as --dry-run is set (size 12.403Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/faire le contract/Attestation_Scolaire_A.Barbault.pdf: Skipped copy as --dry-run is set (size 68.129Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/faire le contract/Fiche de renseignement Entreprise FR-1.pdf: Skipped copy as --dry-run is set (size 242.690Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/faire le contract/Fiche de renseignements Etudiant-1.pdf: Skipped copy as --dry-run is set (size 83.126Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/modalités/old/Fiche de renseignement Entreprise FR.pdf: Skipped copy as --dry-run is set (size 213.419Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/de/screenruler.resources.dll: Skipped copy as --dry-run is set (size 100Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/TP6-7/TP6-7.cpp: Skipped copy as --dry-run is set (size 11.896Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/FullScreenVideoPlayer/App.config: Skipped copy as --dry-run is set (size 189)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/FullScreenVideoPlayer/FullScreenVideoPlayer.csproj: Skipped copy as --dry-run is set (size 2.333Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/FullScreenVideoPlayer/Program.cs: Skipped copy as --dry-run is set (size 270)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/dossier_temporaire/interval_label.txt: Skipped copy as --dry-run is set (size 477.770Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP1/TP-1 - Copie/CentraleSupelec-20RVB.jpg: Skipped copy as --dry-run is set (size 205.457Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP1/TP-1 - Copie/CudaPerf.xlsx: Skipped copy as --dry-run is set (size 27.907Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP1/TP-1 - Copie/TP-1-CUDA-basics.htm: Skipped copy as --dry-run is set (size 30.931Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP1/TP-1 - Copie/pps-upsay.jpg: Skipped copy as --dry-run is set (size 5.405Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP1/TP-1 - Copie/pps.jpg: Skipped copy as --dry-run is set (size 16.900Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/paiements/bulletins/Bulletins 03-2025.pdf: Skipped copy as --dry-run is set (size 44.524Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/paiements/bulletins/Bulletins 04-2025.pdf: Skipped copy as --dry-run is set (size 44.592Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/paiements/bulletins/Bulletins 05-2025.pdf: Skipped copy as --dry-run is set (size 44.554Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/paiements/bulletins/Bulletins 06-2025.pdf: Skipped copy as --dry-run is set (size 44.579Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/paiements/bulletins/Bulletins 07-2025.pdf: Skipped copy as --dry-run is set (size 44.565Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/paiements/bulletins/Bulletins 08-2025.pdf: Skipped copy as --dry-run is set (size 44.598Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/Makefile: Skipped copy as --dry-run is set (size 1.194Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/README.md: Skipped copy as --dry-run is set (size 695)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP/TP Info Quantique 2024-2025/TP Info Quantique 2024-2025/CUseq.png: Skipped copy as --dry-run is set (size 3.765Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP/TP Info Quantique 2024-2025/TP Info Quantique 2024-2025/QPE.png: Skipped copy as --dry-run is set (size 4.146Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP/TP Info Quantique 2024-2025/TP Info Quantique 2024-2025/TP_Polytech_InfoQ.ipynb: Skipped copy as --dry-run is set (size 429.822Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/TP8/TP8.cpp: Skipped copy as --dry-run is set (size 7.855Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP/TP Info Quantique 2024-2025/TP Info Quantique 2024-2025/TP_Polytech_InfoQ_Marie.ipynb: Skipped copy as --dry-run is set (size 279.400Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP/TP Info Quantique 2024-2025/TP Info Quantique 2024-2025/arithmetic.png: Skipped copy as --dry-run is set (size 21.870Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP/TP Info Quantique 2024-2025/TP Info Quantique 2024-2025/bell_inequalities.png: Skipped copy as --dry-run is set (size 20.088Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/TP8/links.txt: Skipped copy as --dry-run is set (size 33)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP/TP Info Quantique 2024-2025/TP Info Quantique 2024-2025/dj_algo.png: Skipped copy as --dry-run is set (size 14.417Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP/TP Info Quantique 2024-2025/TP Info Quantique 2024-2025/grover_algo.png: Skipped copy as --dry-run is set (size 10.360Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP/TP Info Quantique 2024-2025/TP Info Quantique 2024-2025/hwb4-11-23.jpg: Skipped copy as --dry-run is set (size 13.632Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/es/screenruler.resources.dll: Skipped copy as --dry-run is set (size 16Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP/TP Info Quantique 2024-2025/TP Info Quantique 2024-2025/perm2x2.svg: Skipped copy as --dry-run is set (size 18.682Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP/TP Info Quantique 2024-2025/TP Info Quantique 2024-2025/perm3x3.svg: Skipped copy as --dry-run is set (size 117.273Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP/TP Info Quantique 2024-2025/TP Info Quantique 2024-2025/qft.png: Skipped copy as --dry-run is set (size 4.125Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/résultats de Benjamin/Données Validation_Rapport.docx: Skipped copy as --dry-run is set (size 28.651Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP/TP Info Quantique 2024-2025/TP Info Quantique 2024-2025/teleportation.png: Skipped copy as --dry-run is set (size 9.449Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/quantum/TP/TP Info Quantique 2024-2025/TP Info Quantique 2024-2025/toffoli.png: Skipped copy as --dry-run is set (size 14.743Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/résultats de Benjamin/Analyse Comparative(1).docx: Skipped copy as --dry-run is set (size 184.068Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/résultats de Benjamin/Rapport(1).docx: Skipped copy as --dry-run is set (size 102.887Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/constants.h: Skipped copy as --dry-run is set (size 382)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/cpu_kernel.cpp: Skipped copy as --dry-run is set (size 2.917Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/cpu_kernel.h: Skipped copy as --dry-run is set (size 636)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/cpu_kernel.o: Skipped copy as --dry-run is set (size 5.773Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/filter: Skipped copy as --dry-run is set (size 173.344Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/gpu_kernel.cu: Skipped copy as --dry-run is set (size 4.430Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/gpu_kernel.h: Skipped copy as --dry-run is set (size 491)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/gpu_kernel.o: Skipped copy as --dry-run is set (size 17.930Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/gpu_kernel_inv.cu: Skipped copy as --dry-run is set (size 4.430Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/gpu_kernel_noInv.cu: Skipped copy as --dry-run is set (size 4.410Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/c_prog/MediaSorterDLL/.gitattributes: Skipped copy as --dry-run is set (size 2.521Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/c_prog/MediaSorterDLL/.gitignore: Skipped copy as --dry-run is set (size 6.431Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/c_prog/MediaSorterDLL/MediaSorter.sln: Skipped copy as --dry-run is set (size 2.920Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/fi/screenruler.resources.dll: Skipped copy as --dry-run is set (size 11Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/3d/test_balance/TestCapteurRectangulaire2_-_1F6-S_Assembly.STEP-1_1F6-S_Element.STEP-1.STL: Skipped copy as --dry-run is set (size 72.348Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/3d/test_balance/TestCapteurRectangulaire2_-_1F6-S_Assembly.STEP-1_1F6-S_Silicon_Layer_1.STEP-1.STL: Skipped copy as --dry-run is set (size 7.113Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/3d/test_balance/TestCapteurRectangulaire2_-_1F6-S_Assembly.STEP-1_1F6-S_Silicon_Layer_1.STEP-2.STL: Skipped copy as --dry-run is set (size 7.113Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/3d/test_balance/TestCapteurRectangulaire2_-_1F6-S_Assembly.STEP-1_black_wire.STEP-1.STL: Skipped copy as --dry-run is set (size 7.309Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/3d/test_balance/TestCapteurRectangulaire2_-_1F6-S_Assembly.STEP-1_green_wire.STEP-1.STL: Skipped copy as --dry-run is set (size 7.309Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/3d/test_balance/TestCapteurRectangulaire2_-_1F6-S_Assembly.STEP-1_red_wire.STEP-1.STL: Skipped copy as --dry-run is set (size 7.309Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/3d/test_balance/TestCapteurRectangulaire2_-_1F6-S_Assembly.STEP-1_silicon_layer2.STEP-1.STL: Skipped copy as --dry-run is set (size 94.125Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/3d/test_balance/TestCapteurRectangulaire2_-_1F6-S_Assembly.STEP-1_white_wire.STEP-1.STL: Skipped copy as --dry-run is set (size 7.309Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/3d/test_balance/TestCapteurRectangulaire2_-_SmartTrayV2-1.STL: Skipped copy as --dry-run is set (size 280.453Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/3d/test_balance/TestCapteurRectangulaire2_-_Spacer-1.STL: Skipped copy as --dry-run is set (size 10.238Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/3d/test_balance/TestCapteurRectangulaire2_-_Spacer-2.STL: Skipped copy as --dry-run is set (size 10.238Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/3d/test_balance/TestCapteurRectangulaire2_-_Spacer-3.STL: Skipped copy as --dry-run is set (size 10.238Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/3d/test_balance/TestCapteurRectangulaire2_-_SupportV4-1.STL: Skipped copy as --dry-run is set (size 53.207Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/3d/test_balance/TestCapteurRectangulaire2_-_couvercleV4-1.STL: Skipped copy as --dry-run is set (size 101.840Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/lodepng.cpp: Skipped copy as --dry-run is set (size 220.688Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/lodepng.h: Skipped copy as --dry-run is set (size 78.519Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/lodepng.o: Skipped copy as --dry-run is set (size 164.281Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/main.cpp: Skipped copy as --dry-run is set (size 3.988Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/main.o: Skipped copy as --dry-run is set (size 15.039Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/o_ducks_gpu_3.png: Skipped copy as --dry-run is set (size 2.285Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/o_siesta_gpu_5.png: Skipped copy as --dry-run is set (size 493.032Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/o_waves_gpu_2.png: Skipped copy as --dry-run is set (size 1.637Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/it/screenruler.resources.dll: Skipped copy as --dry-run is set (size 9Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/tp3/godbolt.txt: Skipped copy as --dry-run is set (size 38)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/tp3/points.cpp: Skipped copy as --dry-run is set (size 6.081Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/tp3/points_origin.cpp: Skipped copy as --dry-run is set (size 5.950Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/tp3/ranges.cpp: Skipped copy as --dry-run is set (size 5.923Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/tp3/ranges2.cpp: Skipped copy as --dry-run is set (size 3.953Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/tp3/ranges_orig.cpp: Skipped copy as --dry-run is set (size 1.741Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/dossier_temporaire/recap/recap.xlsm: Skipped copy as --dry-run is set (size 191.758Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et4/travail/dossier_temporaire/recap/segments.xlsm: Skipped copy as --dry-run is set (size 651.067Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves/file1.rpgsave: Skipped copy as --dry-run is set (size 131.258Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/ml/screenruler.resources.dll: Skipped copy as --dry-run is set (size 334Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/FullScreenVideoPlayer/Properties/AssemblyInfo.cs: Skipped copy as --dry-run is set (size 1.337Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/rendu/connect-four.zip: Skipped copy as --dry-run is set (size 3.034Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP2/MatrixProduct-CUDA-cublas-enonce-2/MatrixProduct-CUDA-cublas-enonce-2/Makefile: Skipped copy as --dry-run is set (size 1.489Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP2/MatrixProduct-CUDA-cublas-enonce-2/MatrixProduct-CUDA-cublas-enonce-2/gpu.cu: Skipped copy as --dry-run is set (size 9.439Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP2/MatrixProduct-CUDA-cublas-enonce-2/MatrixProduct-CUDA-cublas-enonce-2/gpu.h: Skipped copy as --dry-run is set (size 1.172Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP2/MatrixProduct-CUDA-cublas-enonce-2/MatrixProduct-CUDA-cublas-enonce-2/init.cc: Skipped copy as --dry-run is set (size 9.093Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP2/MatrixProduct-CUDA-cublas-enonce-2/MatrixProduct-CUDA-cublas-enonce-2/init.h: Skipped copy as --dry-run is set (size 814)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP2/MatrixProduct-CUDA-cublas-enonce-2/MatrixProduct-CUDA-cublas-enonce-2/main.cc: Skipped copy as --dry-run is set (size 6.192Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP2/MatrixProduct-CUDA-cublas-enonce-2/MatrixProduct-CUDA-cublas-enonce-2/main.h: Skipped copy as --dry-run is set (size 4.153Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/commands.txt: Skipped copy as --dry-run is set (size 139)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/nl/screenruler.resources.dll: Skipped copy as --dry-run is set (size 10Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/test_cpu.sh: Skipped copy as --dry-run is set (size 783)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/test_gpu.sh: Skipped copy as --dry-run is set (size 783)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/pl/screenruler.resources.dll: Skipped copy as --dry-run is set (size 11Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/config.rpgsave: Skipped copy as --dry-run is set (size 308)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file1.rpgsave: Skipped copy as --dry-run is set (size 131.258Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file10.rpgsave: Skipped copy as --dry-run is set (size 215.312Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file11.rpgsave: Skipped copy as --dry-run is set (size 214.578Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file12.rpgsave: Skipped copy as --dry-run is set (size 215.312Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file13.rpgsave: Skipped copy as --dry-run is set (size 216.039Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file14.rpgsave: Skipped copy as --dry-run is set (size 221.062Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file15.rpgsave: Skipped copy as --dry-run is set (size 221.027Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file16.rpgsave: Skipped copy as --dry-run is set (size 139.523Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file17.rpgsave: Skipped copy as --dry-run is set (size 214.957Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file18.rpgsave: Skipped copy as --dry-run is set (size 140.242Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file19.rpgsave: Skipped copy as --dry-run is set (size 186.477Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file2.rpgsave: Skipped copy as --dry-run is set (size 131.188Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file20.rpgsave: Skipped copy as --dry-run is set (size 160.520Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file3.rpgsave: Skipped copy as --dry-run is set (size 126.500Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/c_prog/MediaSorterDLL/MediaSorterDLL/MediaSorterDLL.vcxproj.filters: Skipped copy as --dry-run is set (size 1.396Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file4.rpgsave: Skipped copy as --dry-run is set (size 214.766Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file5.rpgsave: Skipped copy as --dry-run is set (size 215.391Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file6.rpgsave: Skipped copy as --dry-run is set (size 126.039Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/c_prog/MediaSorterDLL/MediaSorterDLL/MediaSorterDLL.vcxproj: Skipped copy as --dry-run is set (size 14.366Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file7.rpgsave: Skipped copy as --dry-run is set (size 134.266Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/c_prog/MediaSorterDLL/MediaSorterDLL/dllmain.cpp: Skipped copy as --dry-run is set (size 453)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/c_prog/MediaSorterDLL/MediaSorterDLL/framework.h: Skipped copy as --dry-run is set (size 163)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/c_prog/MediaSorterDLL/MediaSorterDLL/mediaSorter.c: Skipped copy as --dry-run is set (size 3.104Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file8.rpgsave: Skipped copy as --dry-run is set (size 163.332Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/c_prog/MediaSorterDLL/MediaSorterDLL/pch.cpp: Skipped copy as --dry-run is set (size 217)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/c_prog/MediaSorterDLL/MediaSorterDLL/pch.h: Skipped copy as --dry-run is set (size 689)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/file9.rpgsave: Skipped copy as --dry-run is set (size 215.562Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/saves-12_mars_2025/global.rpgsave: Skipped copy as --dry-run is set (size 1.562Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/pt-PT/screenruler.resources.dll: Skipped copy as --dry-run is set (size 11Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/ru/screenruler.resources.dll: Skipped copy as --dry-run is set (size 12Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/tp1/1/project-2024 11 2016 24 57.zip: Skipped copy as --dry-run is set (size 2.941Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/sk/screenruler.resources.dll: Skipped copy as --dry-run is set (size 10Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/tp1/2/project-2024 11 2016 58 54.zip: Skipped copy as --dry-run is set (size 4.357Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/sv/screenruler.resources.dll: Skipped copy as --dry-run is set (size 11Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/.vs/FullScreenVideoPlayer/FileContentIndex/b5bb24ed-6375-4d7c-b05d-00f37ed15166.vsidx: Skipped copy as --dry-run is set (size 9.079Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/th-TH/screenruler.resources.dll: Skipped copy as --dry-run is set (size 12.500Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/.vs/FullScreenVideoPlayer/v17/.suo: Skipped copy as --dry-run is set (size 44Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/.vs/FullScreenVideoPlayer/v17/DocumentLayout.backup.json: Skipped copy as --dry-run is set (size 1.971Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/.vs/FullScreenVideoPlayer/v17/DocumentLayout.json: Skipped copy as --dry-run is set (size 1.971Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/inputs/ducks.png: Skipped copy as --dry-run is set (size 6.220Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/inputs/siesta.png: Skipped copy as --dry-run is set (size 1.394Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/inputs/waves.png: Skipped copy as --dry-run is set (size 3.811Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/tr/screenruler.resources.dll: Skipped copy as --dry-run is set (size 12Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/comparison/Makefile: Skipped copy as --dry-run is set (size 349)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/comparison/README.md: Skipped copy as --dry-run is set (size 111)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/comparison/comparison.cpp: Skipped copy as --dry-run is set (size 3.162Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/comparison/comparison.o: Skipped copy as --dry-run is set (size 11.375Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/comparison/comparison: Skipped copy as --dry-run is set (size 154.805Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/comparison/lodepng.cpp: Skipped copy as --dry-run is set (size 220.688Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/comparison/lodepng.h: Skipped copy as --dry-run is set (size 78.519Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/comparison/lodepng.o: Skipped copy as --dry-run is set (size 164.281Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Readme.txt: Skipped copy as --dry-run is set (size 2.211Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/tools/ScreenRuler-v.0.10.0-Portable/ScreenRuler-v.0.10.0-Portable/zh-CN/screenruler.resources.dll: Skipped copy as --dry-run is set (size 222.500Ki)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/outputs/ducks_filtergpu.png: Skipped copy as --dry-run is set (size 3.120Mi)
+2025/09/29 15:26:57 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/config.rpgsave: Skipped copy as --dry-run is set (size 308)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file1.rpgsave: Skipped copy as --dry-run is set (size 131.258Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file10.rpgsave: Skipped copy as --dry-run is set (size 215.312Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file11.rpgsave: Skipped copy as --dry-run is set (size 214.578Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file12.rpgsave: Skipped copy as --dry-run is set (size 215.312Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file13.rpgsave: Skipped copy as --dry-run is set (size 216.039Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file14.rpgsave: Skipped copy as --dry-run is set (size 221.062Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file15.rpgsave: Skipped copy as --dry-run is set (size 221.027Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file16.rpgsave: Skipped copy as --dry-run is set (size 139.523Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file17.rpgsave: Skipped copy as --dry-run is set (size 214.957Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file18.rpgsave: Skipped copy as --dry-run is set (size 140.242Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file19.rpgsave: Skipped copy as --dry-run is set (size 186.477Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file2.rpgsave: Skipped copy as --dry-run is set (size 131.188Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file20.rpgsave: Skipped copy as --dry-run is set (size 160.520Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file3.rpgsave: Skipped copy as --dry-run is set (size 126.500Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file4.rpgsave: Skipped copy as --dry-run is set (size 214.766Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file5.rpgsave: Skipped copy as --dry-run is set (size 215.391Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/output_examples/ducks_3.png: Skipped copy as --dry-run is set (size 2.285Mi)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file6.rpgsave: Skipped copy as --dry-run is set (size 126.039Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/output_examples/siesta_5.png: Skipped copy as --dry-run is set (size 493.032Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file7.rpgsave: Skipped copy as --dry-run is set (size 134.266Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file8.rpgsave: Skipped copy as --dry-run is set (size 163.332Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/file9.rpgsave: Skipped copy as --dry-run is set (size 215.562Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/global.rpgsave: Skipped copy as --dry-run is set (size 1.555Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/GPU/TP/TP0/copy/output_examples/waves_2.png: Skipped copy as --dry-run is set (size 1.637Mi)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/rendu/connect-four/README.txt: Skipped copy as --dry-run is set (size 196)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/rendu/connect-four/app.js: Skipped copy as --dry-run is set (size 4.755Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/rendu/connect-four/index.html: Skipped copy as --dry-run is set (size 594)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/rendu/connect-four/styles.css: Skipped copy as --dry-run is set (size 1.312Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/FullScreenVideoPlayer/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs: Skipped copy as --dry-run is set (size 214)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/FullScreenVideoPlayer/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache: Skipped copy as --dry-run is set (size 1.949Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/FullScreenVideoPlayer/obj/Debug/FullScreenVideoPlayer.csproj.AssemblyReference.cache: Skipped copy as --dry-run is set (size 3.983Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/tp1/1/project-2024 11 2016 24 57/CMakeLists.txt: Skipped copy as --dry-run is set (size 338)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/.vs/FullScreenVideoPlayer/CopilotIndices/17.14.827.52834/CodeChunks.db: Skipped copy as --dry-run is set (size 68Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/tp1/1/project-2024 11 2016 24 57/main.cpp: Skipped copy as --dry-run is set (size 884)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/cours/et5/C++/tp/tp1/1/project-2024 11 2016 24 57/stack.hpp: Skipped copy as --dry-run is set (size 1.576Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/mediaSorter/programs/FullScreenVideoPlayer/.vs/FullScreenVideoPlayer/CopilotIndices/17.14.827.52834/SemanticSymbols.db: Skipped copy as --dry-run is set (size 48Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/.gitignore: Skipped copy as --dry-run is set (size 333)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/README.md: Skipped copy as --dry-run is set (size 3.349Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/package-lock.json: Skipped copy as --dry-run is set (size 669.522Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/package.json: Skipped copy as --dry-run is set (size 848)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Condoms/[Noir and Dark Sims 4] PornstarCock-CondomBlueWrapper.package: Skipped copy as --dry-run is set (size 284.782Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Condoms/[Noir and Dark Sims 4] PornstarCock-CondomClearWrapper.package: Skipped copy as --dry-run is set (size 266.649Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Condoms/[Noir and Dark Sims 4] PornstarCock-CondomCyanWrapper.package: Skipped copy as --dry-run is set (size 281.430Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Condoms/[Noir and Dark Sims 4] PornstarCock-CondomMagentaWrapper.package: Skipped copy as --dry-run is set (size 285.546Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Condoms/[Noir and Dark Sims 4] PornstarCock-CondomOrangeWrapper.package: Skipped copy as --dry-run is set (size 283.443Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Condoms/[Noir and Dark Sims 4] PornstarCock-CondomPurpleWrapper.package: Skipped copy as --dry-run is set (size 283.546Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Condoms/[Noir and Dark Sims 4] PornstarCock-Condoms.package: Skipped copy as --dry-run is set (size 655.344Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Average/[Noir and Dark Sims 4] PornstarCock-Average-HardCut-F.package: Skipped copy as --dry-run is set (size 733.109Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Average/[Noir and Dark Sims 4] PornstarCock-Average-HardCut-M.package: Skipped copy as --dry-run is set (size 746.623Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Average/[Noir and Dark Sims 4] PornstarCock-Average-HardUncut-F.package: Skipped copy as --dry-run is set (size 772.246Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Average/[Noir and Dark Sims 4] PornstarCock-Average-HardUncut-M.package: Skipped copy as --dry-run is set (size 764.588Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Average/[Noir and Dark Sims 4] PornstarCock-Average-SoftCut-F.package: Skipped copy as --dry-run is set (size 733.995Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Average/[Noir and Dark Sims 4] PornstarCock-Average-SoftCut-M.package: Skipped copy as --dry-run is set (size 731.337Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Average/[Noir and Dark Sims 4] PornstarCock-Average-SoftUncut-F.package: Skipped copy as --dry-run is set (size 762.704Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Average/[Noir and Dark Sims 4] PornstarCock-Average-SoftUncut-M.package: Skipped copy as --dry-run is set (size 756.395Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Big/[Noir and Dark Sims 4] PornstarCock-Big-HardCut-F.package: Skipped copy as --dry-run is set (size 722.652Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Big/[Noir and Dark Sims 4] PornstarCock-Big-HardCut-M.package: Skipped copy as --dry-run is set (size 736.792Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Big/[Noir and Dark Sims 4] PornstarCock-Big-HardUncut-F.package: Skipped copy as --dry-run is set (size 793.707Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Big/[Noir and Dark Sims 4] PornstarCock-Big-HardUncut-M.package: Skipped copy as --dry-run is set (size 806.215Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Big/[Noir and Dark Sims 4] PornstarCock-Big-SoftCut-F.package: Skipped copy as --dry-run is set (size 712.662Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Big/[Noir and Dark Sims 4] PornstarCock-Big-SoftCut-M.package: Skipped copy as --dry-run is set (size 726.130Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Big/[Noir and Dark Sims 4] PornstarCock-Big-SoftUncut-F.package: Skipped copy as --dry-run is set (size 736.045Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Big/[Noir and Dark Sims 4] PornstarCock-Big-SoftUncut-M.package: Skipped copy as --dry-run is set (size 750.530Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Extra Big/[Noir and Dark Sims 4] PornstarCock-ExtraBig-HardCut-F.package: Skipped copy as --dry-run is set (size 723.102Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Extra Big/[Noir and Dark Sims 4] PornstarCock-ExtraBig-HardCut-M.package: Skipped copy as --dry-run is set (size 736.893Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Extra Big/[Noir and Dark Sims 4] PornstarCock-ExtraBig-HardUncut-F.package: Skipped copy as --dry-run is set (size 796.711Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Extra Big/[Noir and Dark Sims 4] PornstarCock-ExtraBig-HardUncut-M.package: Skipped copy as --dry-run is set (size 808.915Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Extra Big/[Noir and Dark Sims 4] PornstarCock-ExtraBig-SoftCut-F.package: Skipped copy as --dry-run is set (size 714.688Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Extra Big/[Noir and Dark Sims 4] PornstarCock-ExtraBig-SoftCut-M.package: Skipped copy as --dry-run is set (size 728.909Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Extra Big/[Noir and Dark Sims 4] PornstarCock-ExtraBig-SoftUncut-F.package: Skipped copy as --dry-run is set (size 737.210Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Extra Big/[Noir and Dark Sims 4] PornstarCock-ExtraBig-SoftUncut-M.package: Skipped copy as --dry-run is set (size 751.196Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Huge/[Noir and Dark Sims 4] PornstarCock-Huge-HardCut-F.package: Skipped copy as --dry-run is set (size 722.920Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Huge/[Noir and Dark Sims 4] PornstarCock-Huge-HardCut-M.package: Skipped copy as --dry-run is set (size 736.969Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Huge/[Noir and Dark Sims 4] PornstarCock-Huge-HardUncut-F.package: Skipped copy as --dry-run is set (size 799.545Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Huge/[Noir and Dark Sims 4] PornstarCock-Huge-HardUncut-M.package: Skipped copy as --dry-run is set (size 811.493Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Huge/[Noir and Dark Sims 4] PornstarCock-Huge-SoftCut-F.package: Skipped copy as --dry-run is set (size 714.060Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Huge/[Noir and Dark Sims 4] PornstarCock-Huge-SoftCut-M.package: Skipped copy as --dry-run is set (size 728.457Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Huge/[Noir and Dark Sims 4] PornstarCock-Huge-SoftUncut-F.package: Skipped copy as --dry-run is set (size 736.156Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Huge/[Noir and Dark Sims 4] PornstarCock-Huge-SoftUncut-M.package: Skipped copy as --dry-run is set (size 750.211Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Small/[Noir and Dark Sims 4] PornstarCock-Small-HardCut-F.package: Skipped copy as --dry-run is set (size 727.255Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Small/[Noir and Dark Sims 4] PornstarCock-Small-HardCut-M.package: Skipped copy as --dry-run is set (size 740.355Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Small/[Noir and Dark Sims 4] PornstarCock-Small-HardUncut-F.package: Skipped copy as --dry-run is set (size 764.627Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Small/[Noir and Dark Sims 4] PornstarCock-Small-HardUncut-M.package: Skipped copy as --dry-run is set (size 774.141Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Small/[Noir and Dark Sims 4] PornstarCock-Small-SoftCut-F .package: Skipped copy as --dry-run is set (size 711.590Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Small/[Noir and Dark Sims 4] PornstarCock-Small-SoftCut-M.package: Skipped copy as --dry-run is set (size 724.355Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Small/[Noir and Dark Sims 4] PornstarCock-Small-SoftUncut-F.package: Skipped copy as --dry-run is set (size 735.052Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Small/[Noir and Dark Sims 4] PornstarCock-Small-SoftUncut-M.package: Skipped copy as --dry-run is set (size 748.538Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Tuning File for WW/[Noir and Darks Sims 4] PornstarCock-Tuning-WickedWhims.package: Skipped copy as --dry-run is set (size 1.914Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Swatches/[Noir and Dark Sims 4] PornstarCock-PenisSwatches-Aliens-F.package: Skipped copy as --dry-run is set (size 1.399Mi)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Swatches/[Noir and Dark Sims 4] PornstarCock-PenisSwatches-Aliens-M.package: Skipped copy as --dry-run is set (size 1.399Mi)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Swatches/[Noir and Dark Sims 4] PornstarCock-PenisSwatches-Aliens-Tattoos-F.package: Skipped copy as --dry-run is set (size 184.363Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Swatches/[Noir and Dark Sims 4] PornstarCock-PenisSwatches-Aliens-Tattoos-M.package: Skipped copy as --dry-run is set (size 184.364Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Swatches/[Noir and Dark Sims 4] PornstarCock-PenisSwatches-F.package: Skipped copy as --dry-run is set (size 11.244Mi)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Swatches/[Noir and Dark Sims 4] PornstarCock-PenisSwatches-M.package: Skipped copy as --dry-run is set (size 11.861Mi)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Swatches/[Noir and Dark Sims 4] PornstarCock-PenisSwatches-Tattoos-F.package: Skipped copy as --dry-run is set (size 1.435Mi)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Swatches/[Noir and Dark Sims 4] PornstarCock-PenisSwatches-Tattoos-M.package: Skipped copy as --dry-run is set (size 1.436Mi)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Average/[Noir and Dark Sims 4] PornstarCock-AverageThick-HardCut-F.package: Skipped copy as --dry-run is set (size 723.811Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Average/[Noir and Dark Sims 4] PornstarCock-AverageThick-HardCut-M.package: Skipped copy as --dry-run is set (size 739.217Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Average/[Noir and Dark Sims 4] PornstarCock-AverageThick-HardUncut-F.package: Skipped copy as --dry-run is set (size 750.073Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Average/[Noir and Dark Sims 4] PornstarCock-AverageThick-HardUncut-M.package: Skipped copy as --dry-run is set (size 762.970Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Average/[Noir and Dark Sims 4] PornstarCock-AverageThick-SoftCut-F.package: Skipped copy as --dry-run is set (size 714.164Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Average/[Noir and Dark Sims 4] PornstarCock-AverageThick-SoftCut-M.package: Skipped copy as --dry-run is set (size 728.016Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Average/[Noir and Dark Sims 4] PornstarCock-AverageThick-SoftUncut-F.package: Skipped copy as --dry-run is set (size 738.154Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Average/[Noir and Dark Sims 4] PornstarCock-AverageThick-SoftUncut-M.package: Skipped copy as --dry-run is set (size 751.632Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Extra Big/[Noir and Dark Sims 4] PornstarCock-ExtraBigThick-HardCut-F.package: Skipped copy as --dry-run is set (size 724.500Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Extra Big/[Noir and Dark Sims 4] PornstarCock-ExtraBigThick-HardCut-M.package: Skipped copy as --dry-run is set (size 738.183Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Extra Big/[Noir and Dark Sims 4] PornstarCock-ExtraBigThick-HardUncut-F.package: Skipped copy as --dry-run is set (size 799.361Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Extra Big/[Noir and Dark Sims 4] PornstarCock-ExtraBigThick-HardUncut-M.package: Skipped copy as --dry-run is set (size 810.755Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Extra Big/[Noir and Dark Sims 4] PornstarCock-ExtraBigThick-SoftCut-F.package: Skipped copy as --dry-run is set (size 713.965Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Extra Big/[Noir and Dark Sims 4] PornstarCock-ExtraBigThick-SoftCut-M.package: Skipped copy as --dry-run is set (size 727.895Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Extra Big/[Noir and Dark Sims 4] PornstarCock-ExtraBigThick-SoftUncut-F.package: Skipped copy as --dry-run is set (size 735.702Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Extra Big/[Noir and Dark Sims 4] PornstarCock-ExtraBigThick-SoftUncut-M.package: Skipped copy as --dry-run is set (size 749.430Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/.gitignore: Skipped copy as --dry-run is set (size 333)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/README.md: Skipped copy as --dry-run is set (size 3.349Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/package-lock.json: Skipped copy as --dry-run is set (size 669.532Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/package.json: Skipped copy as --dry-run is set (size 853)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Big/[Noir and Dark Sims 4] PornstarCock-BigThick-HardCut-F.package: Skipped copy as --dry-run is set (size 726.369Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Big/[Noir and Dark Sims 4] PornstarCock-BigThick-HardCut-M.package: Skipped copy as --dry-run is set (size 739.823Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Big/[Noir and Dark Sims 4] PornstarCock-BigThick-HardUncut-F.package: Skipped copy as --dry-run is set (size 790.363Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Big/[Noir and Dark Sims 4] PornstarCock-BigThick-HardUncut-M.package: Skipped copy as --dry-run is set (size 804.256Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Big/[Noir and Dark Sims 4] PornstarCock-BigThick-SoftCut-F.package: Skipped copy as --dry-run is set (size 712.028Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Big/[Noir and Dark Sims 4] PornstarCock-BigThick-SoftCut-M.package: Skipped copy as --dry-run is set (size 725.580Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Big/[Noir and Dark Sims 4] PornstarCock-BigThick-SoftUncut-F.package: Skipped copy as --dry-run is set (size 735.181Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Big/[Noir and Dark Sims 4] PornstarCock-BigThick-SoftUncut-M.package: Skipped copy as --dry-run is set (size 749.226Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Huge/[Noir and Dark Sims 4] PornstarCock-HugeThick-HardCut-F.package: Skipped copy as --dry-run is set (size 724.361Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Huge/[Noir and Dark Sims 4] PornstarCock-HugeThick-HardCut-M.package: Skipped copy as --dry-run is set (size 738.444Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Huge/[Noir and Dark Sims 4] PornstarCock-HugeThick-HardUncut-F.package: Skipped copy as --dry-run is set (size 800.816Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Huge/[Noir and Dark Sims 4] PornstarCock-HugeThick-HardUncut-M.package: Skipped copy as --dry-run is set (size 812.188Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Huge/[Noir and Dark Sims 4] PornstarCock-HugeThick-SoftCut-F.package: Skipped copy as --dry-run is set (size 713.366Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Huge/[Noir and Dark Sims 4] PornstarCock-HugeThick-SoftCut-M.package: Skipped copy as --dry-run is set (size 727.614Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Huge/[Noir and Dark Sims 4] PornstarCock-HugeThick-SoftUncut-F.package: Skipped copy as --dry-run is set (size 734.748Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Huge/[Noir and Dark Sims 4] PornstarCock-HugeThick-SoftUncut-M.package: Skipped copy as --dry-run is set (size 748.622Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/.gitignore: Skipped copy as --dry-run is set (size 333)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/README.md: Skipped copy as --dry-run is set (size 3.349Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/package-lock.json: Skipped copy as --dry-run is set (size 648.342Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/package.json: Skipped copy as --dry-run is set (size 749)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Small/[Noir and Dark Sims 4] PornstarCock-SmallThick-HardCut-F.package: Skipped copy as --dry-run is set (size 728.628Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Small/[Noir and Dark Sims 4] PornstarCock-SmallThick-HardCut-M.package: Skipped copy as --dry-run is set (size 742.180Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Small/[Noir and Dark Sims 4] PornstarCock-SmallThick-HardUncut-F.package: Skipped copy as --dry-run is set (size 728.768Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Small/[Noir and Dark Sims 4] PornstarCock-SmallThick-HardUncut-M.package: Skipped copy as --dry-run is set (size 775.117Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Small/[Noir and Dark Sims 4] PornstarCock-SmallThick-SoftCut-F.package: Skipped copy as --dry-run is set (size 711.818Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Small/[Noir and Dark Sims 4] PornstarCock-SmallThick-SoftCut-M.package: Skipped copy as --dry-run is set (size 724.467Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Small/[Noir and Dark Sims 4] PornstarCock-SmallThick-SoftUncut-F.package: Skipped copy as --dry-run is set (size 735.014Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/games/sims4/broken_mods/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/[Noir and Dark Sims 4] Pornstar Cock V6 -2022-07-04 [Public]/Penis Thick Small/[Noir and Dark Sims 4] PornstarCock-SmallThick-SoftUncut-M.package: Skipped copy as --dry-run is set (size 748.627Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/src/App.css: Skipped copy as --dry-run is set (size 1.902Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/src/App.js: Skipped copy as --dry-run is set (size 762)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/src/App.test.js: Skipped copy as --dry-run is set (size 254)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/src/index.css: Skipped copy as --dry-run is set (size 379)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/src/index.js: Skipped copy as --dry-run is set (size 552)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/src/logo.svg: Skipped copy as --dry-run is set (size 2.570Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/src/reportWebVitals.js: Skipped copy as --dry-run is set (size 375)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/src/setupTests.js: Skipped copy as --dry-run is set (size 246)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/public/favicon.ico: Skipped copy as --dry-run is set (size 3.779Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/public/index.html: Skipped copy as --dry-run is set (size 1.723Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/public/logo192.png: Skipped copy as --dry-run is set (size 5.222Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/public/logo512.png: Skipped copy as --dry-run is set (size 9.438Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/public/manifest.json: Skipped copy as --dry-run is set (size 517)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/public/robots.txt: Skipped copy as --dry-run is set (size 70)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/agl_ihm/public/bg/pexels-pixabay-122429.jpg: Skipped copy as --dry-run is set (size 1.861Mi)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/public/favicon.ico: Skipped copy as --dry-run is set (size 3.779Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/public/index.html: Skipped copy as --dry-run is set (size 1.723Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/public/logo192.png: Skipped copy as --dry-run is set (size 5.222Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/public/logo512.png: Skipped copy as --dry-run is set (size 9.438Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/public/manifest.json: Skipped copy as --dry-run is set (size 517)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/public/robots.txt: Skipped copy as --dry-run is set (size 70)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/src/App.css: Skipped copy as --dry-run is set (size 602)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/src/App.js: Skipped copy as --dry-run is set (size 553)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/src/App.test.js: Skipped copy as --dry-run is set (size 254)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/src/index.css: Skipped copy as --dry-run is set (size 379)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/src/index.js: Skipped copy as --dry-run is set (size 552)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/src/logo.svg: Skipped copy as --dry-run is set (size 2.570Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/src/reportWebVitals.js: Skipped copy as --dry-run is set (size 375)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/entraînement/my-react-app/src/setupTests.js: Skipped copy as --dry-run is set (size 246)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file1.rpgsave: Skipped copy as --dry-run is set (size 113.168Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file10.rpgsave: Skipped copy as --dry-run is set (size 215.312Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file11.rpgsave: Skipped copy as --dry-run is set (size 214.578Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file12.rpgsave: Skipped copy as --dry-run is set (size 215.312Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file13.rpgsave: Skipped copy as --dry-run is set (size 216.039Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file14.rpgsave: Skipped copy as --dry-run is set (size 221.062Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file15.rpgsave: Skipped copy as --dry-run is set (size 221.027Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file16.rpgsave: Skipped copy as --dry-run is set (size 139.523Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file17.rpgsave: Skipped copy as --dry-run is set (size 214.957Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file18.rpgsave: Skipped copy as --dry-run is set (size 140.242Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file19.rpgsave: Skipped copy as --dry-run is set (size 186.477Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/public/favicon.ico: Skipped copy as --dry-run is set (size 3.779Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file2.rpgsave: Skipped copy as --dry-run is set (size 131.188Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/public/index.html: Skipped copy as --dry-run is set (size 1.723Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file20.rpgsave: Skipped copy as --dry-run is set (size 160.520Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/public/logo192.png: Skipped copy as --dry-run is set (size 5.222Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file3.rpgsave: Skipped copy as --dry-run is set (size 126.500Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/public/logo512.png: Skipped copy as --dry-run is set (size 9.438Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file4.rpgsave: Skipped copy as --dry-run is set (size 214.766Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/public/manifest.json: Skipped copy as --dry-run is set (size 517)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file5.rpgsave: Skipped copy as --dry-run is set (size 215.391Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/public/robots.txt: Skipped copy as --dry-run is set (size 70)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file6.rpgsave: Skipped copy as --dry-run is set (size 126.039Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file7.rpgsave: Skipped copy as --dry-run is set (size 134.266Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file8.rpgsave: Skipped copy as --dry-run is set (size 163.332Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/health/entertainment/news_underground/games/downloaded/saves/saves_Magical_Girl_Celesphonia_1.07_KG/save-20241011T172410Z-001/save/save_crisis/30/file9.rpgsave: Skipped copy as --dry-run is set (size 215.562Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/src/App.css: Skipped copy as --dry-run is set (size 736)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/src/App.js: Skipped copy as --dry-run is set (size 3.923Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/src/App.test.js: Skipped copy as --dry-run is set (size 254)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/src/index.css: Skipped copy as --dry-run is set (size 379)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/src/index.js: Skipped copy as --dry-run is set (size 552)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/src/logo.svg: Skipped copy as --dry-run is set (size 2.570Ki)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/src/reportWebVitals.js: Skipped copy as --dry-run is set (size 375)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/src/setupTests.js: Skipped copy as --dry-run is set (size 246)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/public/videos/SampleVideo_1280x720_1mb.mp4: Skipped copy as --dry-run is set (size 1.007Mi)
+2025/09/29 15:26:58 NOTICE: Users/N6506/Home/travail/Polytech Paris Saclay/stage et5/candidats/dotscreen/entretien technique/entraînement/video_player/video_player/public/videos/SampleVideo_1280x720_2mb.mp4: Skipped copy as --dry-run is set (size 2.010Mi)
+Transferred:      132.996 GiB / 132.996 GiB, 100%, 66.454 GiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 953
+Transferred:          660 / 660, 100%
+Elapsed time:         2.4s
+2025/09/29 15:26:58 NOTICE:
+Transferred:      132.996 GiB / 132.996 GiB, 100%, 66.454 GiB/s, ETA 0s
+Checks:                 0 / 0, -, Listed 953
+Transferred:          660 / 660, 100%
+Elapsed time:         2.5s
+
+Appuyez sur une touche pour continuer...
