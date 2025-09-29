@@ -1,10 +1,15 @@
 # compare_file_lists.py
 txt_file = "preview_list.txt"
-wiztree_csv = "WizTree_20250929212031.csv"
+wiztree_csv = "WizTree_20250929212722.csv"
 
 # Read your list
 with open(txt_file, "r", encoding="utf-8") as f:
-    txt_files = set(line.strip() for line in f if line.strip())
+    txt_files = set(
+        line[line.find("Users"):line.find(":")].replace("/", "\\")
+        for line in f
+        if "Users" in line and ":" in line
+    )
+
 
 # Read WizTree export (file paths are usually in column 1)
 wiz_files = set()
