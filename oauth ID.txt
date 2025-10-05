@@ -1,2 +1,0 @@
-ID client : 85595744563-hi7jf4crqagbu7n18c0cli2d5rqcuut8.apps.googleusercontent.com
-Code secret du client : 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
